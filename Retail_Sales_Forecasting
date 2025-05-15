@@ -1,1 +1,19 @@
-Retail Forecasting
+# Improving Retail Sales Forecast and Markdown Strategy Using Data Analytics
+---
+## 📦 Dataset
+
+The dataset contains historical retail sales data from 45  stores , each with various departments. It includes:
+
+- **Weekly sales figures**
+- **Store-level variables** (e.g., markdowns, economic indicators, holidays)
+- **Store type and size classifications**
+
+Promotional markdowns were applied ahead of major holidays like **Labor Day, Father’s Day, Mother’s Day, and Christmas**, and these **holiday weeks are weighted 5× higher** in evaluations due to their business impact.
+
+The dataset is structured into three tabs:
+
+1. **Variables Dataset** – Economic and promotional indicators by store and week
+2. **Weekly Sales Data** – Sales per department per store per week
+3. **Store Type & Size** – Metadata about each store
+---
+

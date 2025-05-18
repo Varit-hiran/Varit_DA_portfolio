@@ -30,3 +30,13 @@ Recent Master of Supply Chain Management graduate from Auckland University of Te
 - Machine Learning  
 
 🎖️ [View Digital Badge](https://api.badgr.io/public/assertions/IJdbaoTMSlKI3yV1sT_ccA?identity__email=varit.hiran%40gmail.com)
+
+---
+
+### Projects
+- Retail Sales Forecasting [(Click to view project)](./Projects/Retail_Sales_Forecasting/README.md)<br>
+  Analysed weekly sales data across store types and applied regression models to assess markdown impact and forecast sales<br>
+- Donor Segmentation [(Click to view project)](./Projects/Donor_Segmentation/README.md)<br>
+  Segmented donors based on recency, frequency, and monetary value (RFM) using SQL and visualized results in Power BI<br>
+- Grocery Inventory Optimisation [(Click to view project)](./Projects/Grocery_Inventory_Optimisation/README.md)<br>
+  Optimised inventory planning for a grocery dataset using demand classification and inventory turnover rate analysis

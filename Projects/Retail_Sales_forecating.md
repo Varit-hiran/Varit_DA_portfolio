@@ -97,7 +97,7 @@ corrplot(M, method = "color", tl.cex=1.5, tl.srt = 45, tl.col = "#010a4f")
 
 Results:
 
-![image.png](https://i.imgur.com/naGXOzK.png[/img])
+<img src="https://i.imgur.com/naGXOzK.png" width="600"/>
 
 From above results, it can be seen that:
 

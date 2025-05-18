@@ -45,19 +45,19 @@ The dataset is structured into three tabs:
 
 ## 📊 Descriptive analysis
 
-![image.png](attachment:de6fdcc3-5a8c-4124-a0fa-2cd4fc23e941:image.png)
+![Dashboard Preview](https://i.imgur.com/IgnKkyF.png)
 
 1). Main dashboard view showing overall retail performance across all stores and all time periods
 
-![image.png](attachment:26f1da9e-40e1-4023-9de9-ba2a30848492:image.png)
+![image.png](https://i.imgur.com/cTxPECd.png[/img])
 
 2). Filtered dashboard view that show data only for **holiday weeks**
 
-![image.png](attachment:4687d0be-8dc2-4827-914c-e7cd9c355beb:image.png)
+![image.png](https://i.imgur.com/3EMcYX0.png[/img])
 
 3). Filtered dashboard view that show data only for non-**holiday weeks**
 
-![Screenshot 2025-05-14 003232.png](attachment:a0a54b44-237c-4f24-a02c-a78066073d7d:Screenshot_2025-05-14_003232.png)
+![Screenshot 2025-05-14 003232.png](https://i.imgur.com/TZ2hGlb.png[/img])
 
 4). Least performing stores view that replaces the bar chart to highlight the **3 least performing stores by type**.
 
@@ -97,7 +97,7 @@ corrplot(M, method = "color", tl.cex=1.5, tl.srt = 45, tl.col = "#010a4f")
 
 Results:
 
-![image.png](attachment:70e75da0-3ccd-48d7-8448-c5a108157698:image.png)
+![image.png](https://i.imgur.com/naGXOzK.png[/img])
 
 From above results, it can be seen that:
 
@@ -112,7 +112,7 @@ From above results, it can be seen that:
 
 In this section, Linear Regression was conducted in the Excel tool to find the correlation between variables and Total Sales
 
-![image.png](attachment:f202e812-43f6-42e3-9bc9-344919a2ecde:image.png)
+![image.png](https://i.imgur.com/QpChDMQ.png[/img])
 
 - R Square results indicates that this model may only explain the relationship of variables to Total Sales only **0.007%**
 - From P-Value results:
@@ -133,17 +133,17 @@ In this section, Linear Regression was conducted in the Excel tool to find the c
 - CPI rate = Moderate negative impact and significant
 - Unemployment rate = High negative impact and high significance
 
-![image.png](attachment:5d3994ad-d819-43f0-93a3-71eb47408c8e:image.png)
+![image.png](https://i.imgur.com/35iWc9d.png[/img])
 
 This visualisation illustrates a predicted sales value for Holiday Week for store 20 (Most contributed to the Total Sales) using Slicer tool (Power BI) to exemplify the correlation between Total Sales and variables
 
 Moreover, the predictions were made for 3 stores to represent each store type by comparing Total Sales of each week (holiday period) in November 
 
-![image.png](attachment:7be1ea08-ae50-4c96-95b0-5b14bfada6a1:image.png)
+![image.png](https://i.imgur.com/1Nbn0HC.png[/img])
 
-![image.png](attachment:79c77622-0dba-4c00-b9d3-721209ea27a8:image.png)
+![image.png](https://i.imgur.com/prwMnmp.png[/img])
 
-![image.png](attachment:fff2c331-58ee-44d9-bea4-46ac075685ef:image.png)
+![image.png](https://i.imgur.com/mOHZcTX.png[/img])
 
 ### 📌 Key insights from the visualisation:
 
